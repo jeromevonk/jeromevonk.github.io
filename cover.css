@@ -18,10 +18,10 @@ html,
 body {
   height: 100%;
   /* background-color: #333; */
-  background: url(cover.jpg) repeat center center fixed;
+  background: url(covers/cover_3.jpg) repeat center center fixed;
 }
 body {
-  color: #f9d62f;
+  color: #050400;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -56,6 +56,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  color:black
 }
 
 .masthead-nav > li {
