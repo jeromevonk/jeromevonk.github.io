@@ -1,0 +1,26 @@
+baseURL = 'https://jeromevonk.github.io'
+languageCode = 'en-us'
+title = 'Jerome Vonk'
+theme = 'hallo'
+
+[Author]
+  name = "Jerome Vonk"
+
+[params]
+  [[params.links]]
+    icon = "github"
+    title = "Github"
+    url = "http://github.com/jeromevonk"
+  [[params.links]]
+    icon = "linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/jeromevonk/"
+  [[params.links]]
+    icon = "medium"
+    title = "Medium"
+    url = "https://medium.com/@jeromevonk"
+  [[params.links]]
+    iconset = "fas"
+    icon = "envelope"
+    title = "E-mail"
+    url = "mailto:vonkjerome@gmail.com"

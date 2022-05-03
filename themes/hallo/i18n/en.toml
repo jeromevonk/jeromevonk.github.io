@@ -1,0 +1,8 @@
+[hello]
+other = "Hello"
+
+[i-am]
+other = "I am"
+
+[generator]
+other = ""
