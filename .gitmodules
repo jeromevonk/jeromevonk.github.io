@@ -1,0 +1,3 @@
+[submodule "hugo/themes/hallo"]
+	path = hugo/themes/hallo
+	url = https://github.com/EmielH/hallo-hugo.git
