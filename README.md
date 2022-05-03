@@ -4,6 +4,6 @@ Portfolio website using [Hugo](https://gohugo.io/) and the [Hallo](https://theme
 
 Instructions for deplying into GitHub [here](https://gohugo.io/hosting-and-deployment/hosting-on-github) (commits on *main* branch, serves on *gh-pages* bnanch).
 
-Files under *jvv* [folder](https://github.com/jeromevonk/jeromevonk.github.io/tree/gh-pages/jvv) are for external reference.
+Files under *jvv* [folder](https://github.com/jeromevonk/jeromevonk.github.io/tree/main/jvv) are for external reference.
 
 Access [here](https://jeromevonk.github.io).
