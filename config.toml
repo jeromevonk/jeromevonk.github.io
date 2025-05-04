@@ -3,8 +3,7 @@ languageCode = 'en-us'
 title = 'Jerome Vonk'
 theme = 'hallo'
 
-[Author]
-  name = "Jerome Vonk"
+
 
 [params]
   [[params.links]]
@@ -24,3 +23,6 @@ theme = 'hallo'
     icon = "medium"
     title = "Medium"
     url = "https://medium.com/@jeromevonk"
+  [params.Author]
+    name = "Jerome Vonk"
+    portrait = "images/portrait.jpg"
